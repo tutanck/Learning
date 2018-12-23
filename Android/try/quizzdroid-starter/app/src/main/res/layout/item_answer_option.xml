@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="NewApi"
+    android:layout_marginTop="10dp">
+
+  <TextView
+      android:id="@+id/textOption"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:gravity="center_vertical"
+      android:layout_marginLeft="5dp"
+      android:minHeight="48dp" />
+
+  <TextView
+      android:id="@+id/textNum"
+      android:layout_width="30dp"
+      android:layout_height="30dp"
+      android:layout_gravity="right|center_vertical"
+      android:layout_marginRight="5dp"
+      android:background="@drawable/count_bubble"
+      android:gravity="center"
+      android:textColor="@android:color/white"
+      tools:ignore="NewApi" />
+
+</FrameLayout>

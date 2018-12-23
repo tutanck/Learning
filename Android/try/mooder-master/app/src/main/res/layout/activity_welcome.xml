@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_signup"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.example.ajoan.welcome.SignupActivity">
+
+    <include android:id="@+id/title" layout="@layout/component_page_title" />
+    <include android:id="@+id/input1" layout="@layout/component_input" />
+    <include android:id="@+id/input2" layout="@layout/component_input" />
+    <include android:id="@+id/submit" layout="@layout/component_submit" />
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/linksLayout"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <!--Will contain redirect links dynamically inflated -->
+    </LinearLayout>
+
+</LinearLayout>

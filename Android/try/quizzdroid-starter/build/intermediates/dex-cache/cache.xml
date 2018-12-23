@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.android/build-cache/30ba285a4b8d58d7ee0fc75ab0fa95c35dc1008a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ff8f27d4f03623592b40f37465d57981f8f37f4">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35d1155a62adb0b9b501c448272fbfef25df6b63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.0/b2ece1bd57ac7b4c315b7505b65ac79cb1da4270/jackson-core-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2ece1bd57ac7b4c315b7505b65ac79cb1da4270">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.5.0_07d28a6a6cdcff2f24ca438b32d1e2fe4f12c438/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.android/build-cache/b7329a2bcd9954e08e0be840a63e558c80685ece/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4ca59b9e4cdf8153b3674238300d2ef50cd0435/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.couchbase.cblite/webserver/2-3/3139c2f41e5779ff17733648eb674a11dd5db0ac/webserver-2-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3139c2f41e5779ff17733648eb674a11dd5db0ac">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/webserver-2-3_6da4ec415ed5103f3e89edebd6d72eec12562397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.0/489b7552dd3322b63f694122d16ce62c21c303b5/jackson-databind-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="489b7552dd3322b63f694122d16ce62c21c303b5">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.5.0_73cb23091ffa82afb670b37aaab85716ce7f883f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_f77c7272acce31ac5d4b0fc68178862742f70777/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/a2a55a3375bc1cef830ca426d68d2ea22961190e/jackson-annotations-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.5.0_eb28d0c52387f76f9e8ca2eeb516e08d9a3ee2b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.android/build-cache/ba6d70fa540d9b397504e6405789fb27ba200fd0/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_b5b22f6977e0f9a2bca65274b77dbdb99949a66a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/1.2.1/ffd63d435d8c2ba13575cead721b5a64b021335f/couchbase-lite-java-core-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffd63d435d8c2ba13575cead721b5a64b021335f">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/couchbase-lite-java-core-1.2.1_9c0872f99632515088804b81cda23dd393ec6c04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.couchbase.cblite/servlet/2-3/ee3fdda3a13d36e33604881346b479b31bbcb6b7/servlet-2-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee3fdda3a13d36e33604881346b479b31bbcb6b7">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/servlet-2-3_72d5f4a874f55b0c00851d0012a9b3f65c2a830d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.android/build-cache/331e8dc4744c6c22245407b7d10217c52f1401f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba1ac421e5d7d2180b10f5d019c2f540057b98ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-listener/1.2.1/75a9ecdbb681803fe5f550da63dfac66a506a613/couchbase-lite-java-listener-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75a9ecdbb681803fe5f550da63dfac66a506a613">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/couchbase-lite-java-listener-1.2.1_100775ea60c35efa234504453579a0ae7780e2dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/github/quizzdroid-starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0969ed5111b17e1a27f8a9bf45f184e486cac22">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa85ddd4f5d14e58653cbdc8528d6afe9d9808eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.github.oxo42/stateless4j/2.4.0/128aca4ace585f0b42faa739d0b968a154debb7a/stateless4j-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/stateless4j-2.4.0_99d8aaf7dfa837491e661eb1baf4523bc62d17e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.android/build-cache/8cad48293268e1388daacb8fb111300772238356/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d708acd7d61c8091459e31b9378bd9fce31b998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/github/quizzdroid-starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_124c113a7e1c68a17413c9adcf82ad8d1321abb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.android/build-cache/ba6d70fa540d9b397504e6405789fb27ba200fd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0b864a1da0e697cbb5ca8c34d4216ea3feb4399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-javascript/1.2.1/b3d63b9272d94813be6dba516e87a942015cd700/couchbase-lite-java-javascript-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3d63b9272d94813be6dba516e87a942015cd700">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/couchbase-lite-java-javascript-1.2.1_643dbea0ae662c5145fce445150434c548ca02bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/org.mozilla/rhino/1.7R3/3bff1e632c665f8cf2d438f77a9f4d0758277db5/rhino-1.7R3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bff1e632c665f8cf2d438f77a9f4d0758277db5">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/rhino-1.7R3_252d6a5e58dbdc029177e8b77ec20622356e10b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.android/build-cache/118662203598aa49c4272243cc40ae96ae99d95c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df78eba53e01ecb50e09156b7aab0479a2d32bf7">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13e0355899336dc8ab7362da0b2a767dfb832d6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.android/build-cache/7fd2c577e35e579dc672b4008cd7286467a201e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/joan/github/quizzdroid-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f06cb8f48f26b3bdeb606faf7afd271330281962/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,1 @@
+->merger les display error avec les log ki les precedent : atomiser les deux apres avoir ecritmon propre logger qui detrmine qui ecrit le log

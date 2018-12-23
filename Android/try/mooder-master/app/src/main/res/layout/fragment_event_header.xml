@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/auth_imv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:maxHeight="200dp"
+        android:adjustViewBounds="true"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+
+        android:src="@drawable/quantum_ic_art_track_grey600_48"
+        />
+
+    <TextView
+        android:id="@+id/auth_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textStyle="italic|bold"
+        android:textSize="16dp"
+        android:paddingBottom="5dp"
+        android:textColor="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"
+        />
+
+    <TextView
+        android:id="@+id/summary_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:gravity="center_horizontal"
+        android:textStyle="italic"
+        android:paddingBottom="10dp"
+        android:textColor="@color/wallet_bright_foreground_disabled_holo_light"
+        />
+
+</LinearLayout>

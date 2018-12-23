@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067208375391",
+    "firebase_url": "https://lacerapp-ebf09.firebaseio.com",
+    "project_id": "lacerapp-ebf09",
+    "storage_bucket": "lacerapp-ebf09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067208375391:android:196d82441fae7edb",
+        "android_client_info": {
+          "package_name": "com.lace.aj.lacer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067208375391-0nrubb8viudki6mupteqb82tssl3em34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRzGcJ1K0c-XM21t6uxcgGHhgwfrAQByg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

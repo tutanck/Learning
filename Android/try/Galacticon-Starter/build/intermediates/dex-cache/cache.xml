@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/joan/github/Android/Galacticon-Starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d474a9b0dcc48191ea951ffde03244dca19189ec">
+        <dex dex="/Users/joan/github/Android/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_15fd4800398eb20901c748fd56ec5615f0daa4ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/joan/github/Android/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.0.1_1e8a5b59c69fae798de9eca3167fa16d1f49465e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/github/Android/Galacticon-Starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/joan/github/Android/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2c2c7b17c1435f803aadfde2a67d6fb3b18e14e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/joan/github/Android/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_1bdc8025bce99cde81e8a4cd33dc33cab59bf37b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/joan/github/Android/Galacticon-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_78347da287c91b9c35f5231cb2f057daf36705a4/classes.dex" />
+    </item>
+
+</items>

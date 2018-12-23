@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Extract
+content
+
+# Custom
+.DS_Store
+.idea
+
+# Ignore generated static files
+static/sitemap.xml
+static/robots.txt
+static/sw.*
+static/CNAME

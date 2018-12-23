@@ -1,0 +1,28 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/event_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="40dp"
+    android:paddingBottom="3dp"
+    android:orientation="vertical"
+    tools:context="com.example.ajoan.events.activities.EventActivity">
+
+    <fragment layout="@layout/fragment_event_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.example.ajoan.events.fragments.EventHeaderFragment"
+        tools:layout="@layout/fragment_event_header" />
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scroll_body"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <fragment layout="@layout/fragment_event_body"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:name="com.example.ajoan.events.fragments.EventBodyFragment"
+            tools:layout="@layout/fragment_event_body" />
+    </ScrollView>
+</LinearLayout>

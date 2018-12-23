@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "pwatest-ef507",
+    "staging": "pwatest-ef507"
+  }
+}
