@@ -55,5 +55,5 @@ try:
         raise AssertionError("L'année saisie est inférieure ou égale à 0.")
 except ValueError:
     print("Vous n'avez pas saisi un nombre.")
-except AssertionError: 
+except AssertionError:
     print("L'année saisie est inférieure ou égale à 0.")
